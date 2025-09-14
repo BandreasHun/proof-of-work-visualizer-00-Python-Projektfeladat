@@ -1,0 +1,1 @@
+# proof-of-work-visualizer-00-Python-Projektfeladat
